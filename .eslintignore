@@ -5,3 +5,4 @@ build/
 dist/
 public/polyfill
 src/polyfill
+matrix-js-sdk.d.ts
